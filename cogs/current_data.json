@@ -1,0 +1,143 @@
+{
+    "servers": {
+        "461383953937596416": {
+            "restricted_users": []
+        },
+        "1060143808622370826": {
+            "restricted_users": [
+                683344697304940556,
+                926437153033048084
+            ]
+        }
+    },
+    "current_locations": {
+        "1060143808622370826-1094955179394211871": {
+            "teams": {
+                "team0": {
+                    "tag": "A",
+                    "total_score": 74
+                },
+                "team1": {
+                    "tag": "B",
+                    "total_score": 48
+                },
+                "team2": {
+                    "tag": "C",
+                    "total_score": 30
+                },
+                "team3": {
+                    "tag": "D",
+                    "total_score": 12
+                }
+            },
+            "races": {
+                "race0": {
+                    "team0": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "team1": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "team2": [
+                        7,
+                        8,
+                        9
+                    ],
+                    "team3": [
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                "race1": {
+                    "team0": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "team1": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "team2": [
+                        7,
+                        8,
+                        9
+                    ],
+                    "team3": [
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                "race2": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race3": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race4": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race5": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race6": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race7": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race8": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race9": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race10": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                },
+                "race11": {
+                    "team0": [],
+                    "team1": [],
+                    "team2": [],
+                    "team3": []
+                }
+            },
+            "format": 3,
+            "current_race": 2
+        }
+    }
+}
